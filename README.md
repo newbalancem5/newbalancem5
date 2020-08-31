@@ -1,4 +1,4 @@
-![Header](https://github.com/newbalancem5/newbalancem5/blob/master/assets/bird.png =150x150)
+ <img src="https://github.com/newbalancem5/newbalancem5/blob/master/assets/bird.png" width="100" height="100">
 
 ### 📈 Github Stats
   
