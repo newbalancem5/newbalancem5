@@ -1,3 +1,4 @@
 ### 📈 Github Stats
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newbalancem5&show_icons=true&theme=radical)
+[![NewBalanceM5's github stats](https://github-readme-stats.vercel.app/api?username=newbalancem5)](https://github.com/newbalancem5/github-readme-stats&hide=stars,commits,prs,issues,contribs)
+
