@@ -4,8 +4,9 @@
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=newbalancem5&repo=flutter_info)](https://github.com/newbalancem5/flutter_info)
 
- <img>
-
+### Social Media
+ [<img src="https://github.com/newbalancem5/newbalancem5/blob/master/assets/telegram.svg">](tg://resolve?domain=flutterdevru)
+ [<img src="https://github.com/newbalancem5/newbalancem5/blob/master/assets/twitter.svg">](https://twitter.com/FlutterForDev)
 ### 📈 Github Stats
   
 [![NewBalanceM5's github stats](https://github-readme-stats.vercel.app/api?username=newbalancem5)](https://github.com/newbalancem5/github-readme-stats)
