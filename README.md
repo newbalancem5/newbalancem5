@@ -5,7 +5,7 @@
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=newbalancem5&repo=flutter_info)](https://github.com/newbalancem5/flutter_info)
 
 ### Social Media
- [![Telegram](https://github.com/newbalancem5/newbalancem5/blob/master/assets/telegram.png)](tg://resolve?domain=flutterdevru)
+ [![Telegram](https://github.com/newbalancem5/newbalancem5/blob/master/assets/telegram.png)](t.me/FlutterDevRu)
  [![Twitter](https://github.com/newbalancem5/newbalancem5/blob/master/assets/twitter.png)](https://twitter.com/FlutterForDev)
 ### 📈 Github Stats
   
